@@ -60,6 +60,29 @@ Welcome to Cartoon E-commerce, an innovative web application that combines the c
    cd www.sellatcaroon.com
    npm start
    ```
+## Team Details
+
+Meet the creators behind Cartoon:
+
+- **Aayush Joshi**
+  - *Role:* Project Management, Documentation and Machine Learning Engineer
+  - *GitHub:* [@Aayush-Joshi-01](https://github.com/Aayush-Joshi-01)
+
+- **Rudraksh Kumrawat**
+  - *Role:* Frontend Developer
+  - *GitHub:* [@rudrakshk-101](https://github.com/rudrakshk-101)
+
+- **Jatin Sahijwani**
+  - *Role:* Backend and Middleware Developer
+  - *GitHub:* [@jatinsahijwani](https://github.com/jatinsahijwani)
+
+- **Anirudh Singh Chouhan**
+  - *Role:* UI/UX Designer
+  - *GitHub:* [@AnirudhSingh07](https://github.com/AnirudhSingh07)
+  
+- **Vishakha Sehgal**
+  - *Role:* Machine Learning Engineer and Tester
+  - *GitHub:* [@wetech22](https://github.com/wetech22)
 
 ## Contributing
 Feel free to contribute to the project by forking the repository and submitting pull requests. Please adhere to the project's coding standards and guidelines.
